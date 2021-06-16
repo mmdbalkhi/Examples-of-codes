@@ -1,2 +1,2 @@
-# I-m-learning-rust-
-I'm learning rust!
+# Learning rust
+i'm learning rust!
