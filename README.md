@@ -1,6 +1,6 @@
 # Learning rust
 
-I'm learning rust and this repository is my sample code's
+I'm learning rust and this repository is my sample codes`
 
 ## Whats Rust?
 
@@ -10,6 +10,6 @@ I'm learning rust and this repository is my sample code's
 
 ## link's
 
-Rust Programing language WebSite [hare](https://rust-lang.org)
+Rust Programing language WebSite [here](https://rust-lang.org)
 
-Run Rust Online on Your web Browser [hare](https://play.rust-lang.org/)
+Run Rust Online on Your web Browser [here](https://play.rust-lang.org/)
