@@ -1,0 +1,9 @@
+[package]
+
+name = "learning-rust"
+version = "1.0.0"
+authors = ["komeilparseh <ahmdparsh129@gmail.com>"]
+
+[[bin]]
+
+name = "learning-rust"
