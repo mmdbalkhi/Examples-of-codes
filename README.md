@@ -1,6 +1,6 @@
 # Learning rust
 
-I'm learning rust and this repository is my sample codes`
+I'm learning rust and this repository is my examples codes`
 
 ## Whats Rust?
 
