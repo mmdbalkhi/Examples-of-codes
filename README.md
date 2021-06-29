@@ -16,10 +16,10 @@ I'm learning rust and this repository is my examples codes`
 
 ## examples:
 
-- [Factorial](/Factorial/factorial.rs)
-- [Fibonacci](/Fibonacci/fib.rs)
-- [find Prime Number](/is_prime/is_prime.rs)
-- [Project Euler](/Project Euler)
+- [Factorial](/examples/Factorial/factorial.rs)
+- [Fibonacci](examples/Fibonacci/fib.rs)
+- [find Prime Number](/examples/is_prime/is_prime.rs)
+- [Project Euler](/Project%20Euler)
 
 ---
 
