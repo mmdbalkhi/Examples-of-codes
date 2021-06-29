@@ -19,7 +19,7 @@ I'm learning rust and this repository is my examples codes`
 - [Factorial](/Factorial/factorial.rs)
 - [Fibonacci](/Fibonacci/fib.rs)
 - [find Prime Number](/is_prime/is_prime.rs)
-- [Project Euler](/Project Euler/README.md)
+- [Project Euler](https://github.com/KomeilParseh/learning-rust/tree/main/Project%20Euler)
 
 ---
 
