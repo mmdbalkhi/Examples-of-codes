@@ -1,8 +1,15 @@
-//Fibonacci
+//Problem
 
 fn main()
 {
-    println("{}", fib(10));
+    let mut i = 1;
+    let mut sum = 0;
+    while fib(i) < 4000000{
+        i += 1;
+        if fib(i) % 2 == 0{
+            sum += fib(i);
+        }
+    }println!("{}", sum);
     
 }
 

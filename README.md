@@ -1,6 +1,10 @@
 # Learning rust
 
+---
+
 I'm learning rust and this repository is my examples codes`
+
+---
 
 ## Whats Rust?
 
@@ -8,12 +12,16 @@ I'm learning rust and this repository is my examples codes`
 > It accomplishes these goals by being memory safe without using garbage collection.
 > “The Rust Programming Language” is split into three sections, which you can navigate through the menu on the left."
 
+---
+
 ## examples:
 
 - [Factorial](/Factorial/factorial.rs)
 - [Fibonacci](/Fibonacci/fib.rs)
 - [find Prime Number](/is_prime/is_prime.rs)
-- ...
+- [Project Euler](/Project Euler)
+
+---
 
 ## link's
 
