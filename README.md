@@ -2,7 +2,7 @@
 
 ---
 
-I'm learning rust and this repository is my examples codes`
+I'm learning the Rust programming language and this repository is Examples codes`.
 
 ---
 
