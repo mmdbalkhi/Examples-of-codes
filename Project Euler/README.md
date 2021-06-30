@@ -4,4 +4,5 @@
 
 ## Examples's List
 
-- [Problem 2](./Problem2/)
+- [Problem 1](https://komeilparseh.github.io/learning-rust/Project%20Euler/Problem1)
+- [Problem 2](https://komeilparseh.github.io/learning-rust/Project%20Euler/Problem2/)
