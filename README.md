@@ -16,9 +16,9 @@ I'm learning the Rust programming language and this repository is Examples codes
 
 ## examples:
 
-- [Factorial](https://komeilparseh.github.io/learning-rust/examples/Factorial/factorial.rs)
-- [Fibonacci](https://komeilparseh.github.io/learning-rust/examples/Fibonacci/fibonacci.rs)
-- [find Prime Number](https://komeilparseh.github.io/learning-rust/examples/is_prime/is_prime.rs)
+- [Factorial](https://komeilparseh.github.io/learning-rust/examples/Factorial/)
+- [Fibonacci](https://komeilparseh.github.io/learning-rust/examples/Fibonacci/)
+- [find Prime Number](https://komeilparseh.github.io/learning-rust/examples/is_prime/)
 - [Project Euler](https://komeilparseh.github.io/learning-rust/Project%20Euler/)
 
 ---
