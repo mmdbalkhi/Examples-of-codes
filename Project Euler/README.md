@@ -139,7 +139,6 @@ Absolutely! Project Euler is entirely financed by its own members, so if you hav
 
 ---
 
-<div>
 
 ## DISCLAIMER
 
@@ -151,10 +150,4 @@ It is humanly impossible for Project Euler, or indeed any member, to reliably di
 
 Providing quality problems for entertainment and educational purposes will continue to be the main goal of Project Euler, regardless of the intentions of a minority of the members.
 
-</div>
-
-<div align="center">
-
 > "Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."
-
-</div>
