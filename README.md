@@ -2,7 +2,7 @@
 
 ---
 
-I'm learning the Rust programming language and this repository is Examples codes`.
+I'm learning the Rust and C programming language and this repository is Examples codes`.
 
 ---
 
@@ -14,12 +14,18 @@ I'm learning the Rust programming language and this repository is Examples codes
 
 ---
 
+## Whats C?
+
+> C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions.
+
+---
+
 ## examples:
 
-- [Factorial](https://komeilparseh.github.io/learning-rust/examples/Factorial/)
-- [Fibonacci](https://komeilparseh.github.io/learning-rust/examples/Fibonacci/)
-- [find Prime Number](https://komeilparseh.github.io/learning-rust/examples/is_prime/)
-- [Project Euler](https://komeilparseh.github.io/learning-rust/Project%20Euler/)
+* [Factorial](https://komeilparseh.github.io/learning-rust/examples/Factorial/)
+* [Fibonacci](https://komeilparseh.github.io/learning-rust/examples/Fibonacci/)
+* [find Prime Number](https://komeilparseh.github.io/learning-rust/examples/is_prime/)
+* [Project Euler](https://komeilparseh.github.io/learning-rust/Project%20Euler/)
 
 ---
 
