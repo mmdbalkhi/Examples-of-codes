@@ -2,7 +2,7 @@
 
 fn main()
 {
-    println("{}", fib(10));
+    println!("{}", fib(10));
     
 }
 
