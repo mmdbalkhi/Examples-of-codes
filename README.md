@@ -25,6 +25,7 @@ I'm learning the Rust and C programming language and this repository is Examples
 * [Factorial](https://komeilparseh.github.io/learning-rust/examples/Factorial/)
 * [Fibonacci](https://komeilparseh.github.io/learning-rust/examples/Fibonacci/)
 * [find Prime Number](https://komeilparseh.github.io/learning-rust/examples/is_prime/)
+* [Pascal's triangle](https://komeilparseh.github.io/learning-rust/Pascaltriangle/)
 * [Project Euler](https://komeilparseh.github.io/learning-rust/Project%20Euler/)
 
 ---
