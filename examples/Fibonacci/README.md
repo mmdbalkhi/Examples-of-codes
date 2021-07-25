@@ -4,28 +4,42 @@
 
 ## Code
 
-### Rust
+### C
 
-```rust
-//Fibonacci
-fn main()
+```c
+#include <stdio.h>
+
+int fib(int n)
 {
-    println!("{}", fib(10));
-    
+	switch (n)
+	{
+		case 0: return 0;
+		case 1: return 1;
+		case 2: return 1;
+	}
+	return fib(n-1)+fib(n-2);
 }
 
-fn fib(n: i32) -> u64 {
-	if n < 0 {
-		panic!("{} is negative! negative Numbers not Support", n);
-	}
-	match n {
-		0     => panic!("zero is not support"),
-		1 | 2 => 1,
-		3     => 2,
-		_     => fib(n - 1) + fib(n - 2)
-	}
+int main()
+{
+	printf("%d\n", fib(10));
+	return 0;
 }
+```
 
+### Erlang
+
+```erlang
+% Power By Jadi Presention
+
+-module (fib).
+-export ([fib/1]).
+
+fib(N) -> fib_internal(N, 0, 1).
+
+fib_internal(0, Result, _) -> Result;
+fib_internal(Iter, Result, Next) when Iter > 0 ->
+    fib_internal(Iter-1, Next, Next+Result).
 ```
 
 ### Erlang
