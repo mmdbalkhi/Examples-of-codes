@@ -2,7 +2,20 @@
 
 > Factorial, in mathematics, the product of all positive integers less than or equal to a given positive integer and denoted by that integer and an exclamation point. Thus, factorial seven is written 7!, meaning 1 × 2 × 3 × 4 × 5 × 6 × 7. Factorial zero is defined as equal to 1.
 
-# Code
+## Code
+
+### Erlang
+
+```erlang
+-module (factorail).
+-export ([factorail/1]).
+
+factorail(1) -> 1;
+factorail(2) -> 2;
+factorail(N) -> factorail(N-1)*N.
+```
+
+### Rust
 
 ```rust
 // lean rust!
