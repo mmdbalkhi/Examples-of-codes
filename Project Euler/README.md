@@ -4,9 +4,9 @@
 
 ## Examples's List
 
-- [Problem 1](https://komeilparseh.github.io/learning-rust/Project%20Euler/Problem1)
-- [Problem 2](https://komeilparseh.github.io/learning-rust/Project%20Euler/Problem2/)
-
+* [Problem 1](https://komeilparseh.github.io/Examples-of-codes/Project%20Euler/Problem1)
+* [Problem 2](https://komeilparseh.github.io/Examples-of-codes/Project%20Euler/Problem2/)
+* [Problem 3](https://komeilparseh.github.io/Examples-of-codes/Project%20Euler/Problem3/)
 
 ## About Project Euler
 
@@ -21,8 +21,8 @@ That depends on your background. There are two tables containing problems. The [
 ---
 
 ### I've written my program but should it take days to get to the answer?
-Absolutely not! Each problem has been designed according to a "one-minute rule", which means that although it may take several hours to design a successful algorithm with more difficult problems, an efficient implementation will allow a solution to be obtained on a modestly powered computer in less than one minute.
 
+Absolutely not! Each problem has been designed according to a "one-minute rule", which means that although it may take several hours to design a successful algorithm with more difficult problems, an efficient implementation will allow a solution to be obtained on a modestly powered computer in less than one minute.
 
 Does it matter if it takes more than one minute to solve?
 Of course not, but that should provide the impetus to return to the problem and see how you can improve your approach. But remember that once you've solved a particular problem you will be able to access a thread relating to that problem and it is here that you may be able to pick some tips from others that have solved it.
@@ -94,6 +94,7 @@ Also please note that your posts will be visible to all members and you are requ
 ---
 
 ### I learned so much solving problem XXX, so is it okay to publish my solution elsewhere?
+
 It appears that you have answered your own question. There is nothing quite like that "Aha!" moment when you finally beat a problem which you have been working on for some time. It is often through the best of intentions in wishing to share our insights so that others can enjoy that moment too. Sadly, that will rarely be the case for your readers. Real learning is an active process and seeing how it is done is a long way from experiencing that epiphany of discovery. Please do not deny others what you have so richly valued yourself.
 
 However, the rule about sharing solutions outside of Project Euler does not apply to the first one-hundred problems, as long as any discussion clearly aims to instruct methods, not just provide answers, and does not directly threaten to undermine the enjoyment of solving later problems. Problems 1 to 100 provide a wealth of helpful introductory teaching material and if you are able to respect our requirements, then we give permission for those problems and their solutions to be discussed elsewhere.
@@ -112,6 +113,7 @@ Only if you agree to the terms of the process then email your proposal to:
 ---
 
 ### How can I contact Project Euler?
+
 The preferred way to contact a Project Euler team member is via the alternative phpBB forum given above. The team visit regularly and are able to deal with most issues quickly and efficiently; see How do I access the alternative forum?.
 
 If you are experiencing a technical issue and are unable to access the forum, then you can contact Project Euler by .
@@ -125,6 +127,7 @@ Project Euler was started by Colin Hughes (a.k.a. euler) in October 2001 as a su
 ---
 
 ### Who runs Project Euler?
+
 Ideas for new problems come from our own members and they are developed by a team of hard working and talented mathematicians and programmers. So to put it simply, it is the members that run Project Euler.
 
 ---
@@ -134,11 +137,12 @@ Ideas for new problems come from our own members and they are developed by a tea
 Absolutely! Project Euler is entirely financed by its own members, so if you have enjoyed the problems and would like to give something back by helping with the running costs then any donations are gratefully received.
 
 <a href="https://www.paypal.com/cgi-bin/webscr">
+
     <img src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif" align="center" >
+
 </a>
 
 ---
-
 
 ## DISCLAIMER
 
