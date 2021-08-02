@@ -221,3 +221,5 @@ Procfile    text
 
 ## Language
 * linguist-language=erlang
+* linguist-language=c
+* linguist-language=rust
