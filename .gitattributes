@@ -220,6 +220,6 @@ Procfile    text
 *.wwaproj   merge=binary
 
 ## Language
+*.rs linguist-language=rust
 *.erl linguist-language=erlang
 *.c linguist-language=c
-*.rs linguist-language=rust
