@@ -219,7 +219,3 @@ Procfile    text
 *.sqlproj   merge=binary
 *.wwaproj   merge=binary
 
-## Language
-*.rs linguist-language=rust
-*.erl linguist-language=erlang
-*.c linguist-language=c
