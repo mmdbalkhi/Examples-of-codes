@@ -2,7 +2,7 @@
 
 ---
 
-This repo is for simple and educational codes in several different languages. I occasionally upload some code here. Our goal is to learn, let's learn!
+This repository is for simple and educational codes in several different languages. I occasionally upload some code here. Our goal is to learn, let's learn!
 
 ---
 
@@ -35,9 +35,8 @@ This repo is for simple and educational codes in several different languages. I 
 > Python is free and easy to learn.
 
 ---
-+
 
-## examples:
+## Examples:
 
 * [Factorial](https://mmdbalkhi.github.io/Examples-of-codes/examples/Factorial/)
 * [Fibonacci](https://mmdbalkhi.github.io/Examples-of-codes/examples/Fibonacci/)
@@ -47,7 +46,7 @@ This repo is for simple and educational codes in several different languages. I 
 
 ---
 
-## Link's
+## Links
 
 C Programming Language Website [here](https://www.learn-c.org/)</br>
 Erlang Programing Labguage WebSite [here](http://erlang.org/)</br>
