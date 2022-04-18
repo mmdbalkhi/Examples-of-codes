@@ -4,13 +4,13 @@ fn main()
 {
 	let n = 10;
 
-	for k in 0..n // TODO: Rust Not C! That's why I have to fix the print as soon as possible!
+	for k in 0..n 
 	{
 		for m in 0..k+1
 		{
-			println!("{}", pascaltriangle(k, m));
+			print!("{}", pascaltriangle(k, m));
 		}
-		println!("\n");
+		print!("\n");
 
 	}
 }
