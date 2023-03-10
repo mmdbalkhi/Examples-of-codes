@@ -37,14 +37,8 @@ Python
 > Python is a programming language that lets you work quickly and integrate systems more effectively.
 > Python is free and easy to learn.
 
-Examples:
----
-
-* [Factorial](https://mmdbalkhi.github.io/Examples-of-codes/examples/Factorial/)
-* [Fibonacci](https://mmdbalkhi.github.io/Examples-of-codes/examples/Fibonacci/)
-* [find Prime Number](https://mmdbalkhi.github.io/Examples-of-codes/examples/is_prime/)
-* [Pascal's triangle](https://mmdbalkhi.github.io/Examples-of-codes/examples/Pascaltriangle/)
-* [Project Euler](https://mmdbalkhi.github.io/Examples-of-codes/Project%20Euler/)
+* [Algo](./algo/)
+* [Project Euler](./Project%20Euler/)
 
 
 
